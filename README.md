@@ -1,4 +1,4 @@
-# Pasta_Bar
+# PastaBar
 Napisati mini program za potrebe 2x2 pasta bara. Glavni zadatak ovog programa jeste da se korisniku omoguci da sam naruci pastu po želji. Program ima evidenciju koji sve sastojci postoje kao i cena za svaki, na osnovu cega se kasnije formira ukupna cena paste.Korisnik unosi nazive sastojaka sve dok se ne unese tekst “Poruči”, a zatim se korisniku prikazuje cena željene paste. Za stalne mušterije postoji popust od 10 posto pri placanju. Stalna mušterija se utvrđuje na osnovu broja telefona.
 
 Sastojci i cene:
